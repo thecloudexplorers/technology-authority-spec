@@ -1,0 +1,32 @@
+{
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.rulers": [
+      {
+        "column": 80,
+        "color": "#d3dd47"
+      }
+    ]
+  },
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "files.defaultLanguage": "powershell",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.exclude": {
+    "obj": true,
+    "bin": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true
+}
