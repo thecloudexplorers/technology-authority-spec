@@ -1,0 +1,9 @@
+{
+  // Markdown All in One (the formatter) and markdownlint measure the width of
+  // emoji (e.g. ⚪) differently, so formatted tables always fail this rule.
+  "MD060": false,
+  // Tables cannot be wrapped, so exclude them from the line length check.
+  "MD013": {
+    "tables": false
+  }
+}
