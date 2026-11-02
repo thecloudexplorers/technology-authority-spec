@@ -8,12 +8,16 @@ A team adopting this spec holds **technology authority** over the solutions it
 owns. That means the team commits to visiting each of the following four
 aspects of every solution under its control **at least once every 3 months**:
 
-| # | Aspect | Visit means... |
-| --- | --- | --- |
-| 1 | Design | Reviewing the High-Level Design (HLD); is it still true? |
-| 2 | Vendor | Connecting with the technology vendor(s): roadmap, EOL, support |
-| 3 | Audit | Checking the implemented reality against the intended design |
-| 4 | Customer | Hearing from the customer: satisfaction, retrospective, feedback |
+| #   | Aspect   | Visit means...                                                   |
+| --- | -------- | ---------------------------------------------------------------- |
+| 1   | Design   | Reviewing the High-Level Design (HLD); is it still true?         |
+| 2   | Vendor   | Connecting with the technology vendor(s): roadmap, EOL, support  |
+| 3   | Audit    | Checking the implemented reality against the intended design     |
+| 4   | Customer | Hearing from the customer: satisfaction, retrospective, feedback |
+
+The team is never responsible for an audit itself; it is consulted and
+supplies evidence and information. The **Audit** visit therefore answers one
+question: *do I need to do something for an audit in the near future?*
 
 A visit may be as brief as *"no change, check-in complete"*, or as significant
 as a major re-architecture if the technology demands it (e.g. an impending
@@ -33,9 +37,21 @@ Age of a visit date:
 
 The team commits to returning every red item to green within its next cycle.
 
+Each solution on the dashboard links to a page describing that solution, so
+the dashboard itself stays a single readable file.
+
+The consumers of the dashboard are the **Account Responsible(s)**. It is the
+`technologists` (architects and tech leads) contribution to the quarterly
+business review.
+
+The dashboard is **not the backlog**. It may link to backlog items, but the
+work itself is tracked elsewhere.
+
 ## 3. The Signals
 
-The dashboard is a sensor, not a report:
+The dashboard is a sensor, not a report. At a glance it tells you whether you
+need to look at something, and whether you have checked that it is still up
+to date:
 
 - **Red items without action**: the authority is not being exercised. Either
   act, or stop practicing this spec (see `5. The Kill Condition`).
