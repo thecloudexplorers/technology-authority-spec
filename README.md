@@ -20,11 +20,17 @@ Small enough to adopt in an afternoon, strict enough to be meaningful.
 - A **responsibility** that any team can adopt by forking this repo
 - A **single dashboard file** per team, readable at a glance
 - A **commitment**: act on the dashboard, or don't adopt the spec
+- Written for the **Account Responsible(s)**: the technologists' (architects
+  and tech leads) contribution to the quarterly business review
 
 ## What this is not
 
 - Not a team, committee, or org structure
 - Not a methodology or process framework
+- Not a backlog. The dashboard may link to backlog items, but the work is
+  tracked elsewhere
+- Not an audit owner. The team is consulted and supplies evidence; the
+  dashboard only signals whether an audit needs attention soon
 - Not a tool requirement. Any format/tool is compliant if it honors the spec
 - Not a status report for management theater. The dashboard exists to drive
   the owning team's action, not to be negotiated with
