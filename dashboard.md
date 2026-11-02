@@ -8,7 +8,7 @@
 | `platform-landing-zone` | 2026-09-28 🟢                | 2026-08-29 🔴   | 2026-09-01 🟡 | 2026-09-27 🟢    | -           | Vendor call scheduled 2026-10-15 (regular connect)     |
 | `payments-service`      | 2026-10-01 🟢                | 2026-08-15 🔴   | 2026-09-20 🟡 | 2026-09-28 🟢    | 2027-09-30  | Vendor call scheduled 2026-10-07 (EOL notice received) |
 | `customer-portal`       | 2026-07-10 🔴                | 2026-09-02 🟡   | 2026-07-30 🔴 | 2026-09-10 🟡    | 2029-12-31  | HLD + audit visits this week; no major change expected |
-| `identity-platform`     | 2026-09-30 🟢                | 2026-09-30 🟢   | 2026-09-30 🟢 | 2026-09-30 🟢    | 2030-12-31  | Full cycle complete; all "no change"                   |
+| `identity-platform`     | - ⚪                         | 2026-09-30 🟢   | 2026-09-30 🟢 | 2026-09-30 🟢    | 2030-12-31  | Full cycle complete; all "no change"                   |
 
 ## About this dashboard
 
